@@ -1,4 +1,6 @@
-# professional Certificate This repository contains my verified profissional certifications and related Project work.
+# professional Certificate 
+
+This repository contains my verified professional certifications and related Project work.
 ---
 ## Deloitte Australia - Data Analitics Job Simulation (Forage)
 
@@ -9,7 +11,7 @@
 - Forensic Technology Concepts
 
   ** Certificate:**
-  -[view Deloitte Data analytics Certificate]
+  -[view Deloitte Data analytics Certificate](./Deloitte_Certificate.pdf)
   ---
   ## Repository Structure
   
